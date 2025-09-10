@@ -11,7 +11,6 @@ from itertools import groupby
 from toolz.itertoolz import concat, pluck
 
 
-
 def copy_raw_files_to_input_folder(n):
     """Generate n copies of the raw files in the input folder"""
 
